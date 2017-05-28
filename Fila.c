@@ -5,6 +5,7 @@
 
 int main()
 {
+    printf("ola galera");
     int removido[MAXID+1];
     int fila[MAXFILA];
     int M, N;
